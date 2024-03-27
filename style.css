@@ -1,0 +1,37 @@
+@media (min-width: 1201px) and (max-width: 1600px){
+  
+}
+  
+
+.main {
+  flex: 1;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+footer {
+  text-align: right;
+  color: midnightblue;
+  float:both;
+}
+
+.left{
+  display: inline-block;
+}
+
+.right{
+  display:inline-block;
+
+}
+
+.tile-image{
+  width: 200px;
+  float: left;
+  display:inline-block;
+}
+
+
+
+  
